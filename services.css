@@ -1,0 +1,24 @@
+.banner h3{
+   // background-image: url(background1.png);
+   // background-repeat: no-repeat;
+    //background-size: cover;
+    //background-color: antiquewhite;
+    text-align: center;
+}
+.banner .general{
+    //background-image: url(background1.png);
+   // background-repeat: no-repeat;
+    //background-size: cover;
+    width:100%
+
+}
+.para{
+    text-align: center;
+    -webkit-text-fill-color: black;
+    
+}
+.para1{
+    text-align: center;
+}
+
+
